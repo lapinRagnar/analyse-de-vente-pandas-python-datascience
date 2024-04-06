@@ -36,6 +36,7 @@ pip freeze > requirements.txt
 ```
 pip install pandas
 pip install "pandas[excel]"
+python -m pip install -U matplotlib
 ```
 
 
