@@ -42,7 +42,7 @@ python -m pip install -U matplotlib
 
 
 # les commandes
-
+z
 
 # le tuto
 https://www.youtube.com/watch?v=eMOA1pPVUc4
